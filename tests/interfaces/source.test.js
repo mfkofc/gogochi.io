@@ -12,7 +12,7 @@ test("provides discover listings", async () => {
   console.log(
     await source.discoverListings({
       listingId: "top-airing",
-      page: "https://anitaku.to/popular.html?page=2",
+      page: "https://anitaku.bz/popular.html?page=1",
     }),
   );
 });
