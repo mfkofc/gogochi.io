@@ -32,7 +32,7 @@ import { jikanSchema } from "./schemas/jikanSchema";
 import { aniskipSchema } from "./schemas/aniskipSchema";
 import { DiscoverListingType } from "@mochiapp/js/src/interfaces/source/types";
 
-const BASENAME = "https://anitaku.so";
+const BASENAME = "https://anitaku.bz";
 const AJAX_BASENAME = "https://ajax.gogocdn.net/ajax";
 
 const LISTINGS = {
